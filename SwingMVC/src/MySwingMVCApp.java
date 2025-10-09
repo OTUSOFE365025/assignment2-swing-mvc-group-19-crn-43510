@@ -5,7 +5,7 @@ public class MySwingMVCApp {
 		Controller c = new Controller(m, v);
 		c.initController();
 
-		String productFile = "products.txt";
+		String productFile = "SwingMVC/products.txt";
 		CashRegister cashRegister = new CashRegister(productFile);
 
 

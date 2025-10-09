@@ -17,7 +17,7 @@ public class Scanner {
 
 	public Scanner(Controller controller) {
 		this.c = controller;
-		load("products.txt");
+		load("SwingMVC/products.txt");
 
 		frame = new JFrame("Scanner");
 		frame.getContentPane().setLayout(new BorderLayout());
