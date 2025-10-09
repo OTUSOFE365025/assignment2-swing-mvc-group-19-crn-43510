@@ -1,0 +1,7 @@
+12345 Coffee 8.23
+11111 Bananas 6.23
+22222 Mango 1.43
+33333 Apples 3.25
+44444 Grapes 2.46
+55555 Eggs 4.46
+66666 Sugar 7.35
